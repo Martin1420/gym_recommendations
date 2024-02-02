@@ -13,6 +13,6 @@ def print_welcome():
     print("________________________________")
     print("*                              *")
     print("*                              *")
-    print("* Welcome to Bay Area Gyms! *")
+    print("*  Welcome to Bay Area Gyms!   *")
     print("*                              *")
     print("*______________________________*")
